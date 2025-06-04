@@ -26,7 +26,7 @@ def create_ca_assembly_district_map():
 
 
 # %% Get senators data
-df_senators = pd.read_csv('senators_with_votes.csv')
+df_senators = pd.read_csv('data/senators_with_votes.csv')
 # Simplify just to phone numbers
 phone_regex = r'(\(\d{3}\)\s*\d{3}-\d{4})'
 df_senators['Capitol Office'] = (

@@ -68,7 +68,7 @@ df_senators = pd.DataFrame(senators_data)
 df_senators.head(5).T
 
 # %% Data of Vote - Manually created
-df_votes = pd.read_csv('vote_data.csv')
+df_votes = pd.read_csv('data/vote_data.csv')
 df_votes.head()
 
 # %% Merge senator names with vote data
@@ -81,5 +81,5 @@ df = pd.merge(
 )
 df.head(5).T
 # %%
-df.to_csv('senators_with_votes.csv', index=False)
+df.to_csv('data/senators_with_votes.csv', index=False)
 
