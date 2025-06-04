@@ -6,7 +6,8 @@ View the map broken by district at https://blog.mrgeislinger.com/california-sb_7
 
 ## Background 
 
-The [SB-79 Housing development bill](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB79) passed on 2025 June 3rd.
+The [SB-79 Housing development bill](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB79) passed the Senate floor on 2025-06-03. It will next need to go to the Assembly
+and ultimately the Governor.
 
 I'm no expert, but many have said this is a huge win for home development _and_
 transit development by allowing more multi-family housing to be built near
