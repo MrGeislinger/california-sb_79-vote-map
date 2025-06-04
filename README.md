@@ -19,8 +19,9 @@ https://www.senate.ca.gov/senators, I realized it wasn't easy for the typical
 person to find their senator, find out how they voted on this bill, and then
 how to contact them.
 
-So that night I quickly threw together this interactive map. (Sorry the code & 
-map are not perfect!) Feel free to take what's there for your own use!
+So that [night](https://bsky.app/profile/did:plc:jfda6xfy4ncaf72omkvrbkko/post/3lqrzd6cy522i)
+I quickly threw together this interactive map. (Sorry the code &  map are not
+perfect!) Feel free to take what's there for your own use!
 
 
 ## Running the Code
