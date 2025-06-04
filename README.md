@@ -2,6 +2,8 @@
 
 View the map broken by district at https://blog.mrgeislinger.com/california-sb_79-vote-map
 
+![Example map plot of CA districts colored in green, red, or gray. Title "California State Senators Vote on SB 79 Bill Make sure to thank (or complain) to your senator". Shows gray box from mouse hover of Senator Time Grayson with voting info, district number,  website, and contact phone number](images/example-map.png)
+
 ## Background 
 
 The [SB-79 Housing development bill](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB79) passed on 2025 June 3rd.
