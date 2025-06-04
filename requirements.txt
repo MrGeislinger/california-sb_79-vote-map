@@ -1,0 +1,11 @@
+pandas
+plotly
+bs4
+plotly-geo
+geopandas
+pyshp
+shapely
+nbformat
+tabulate
+requests
+lxml
