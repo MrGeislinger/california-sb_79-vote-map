@@ -95,8 +95,8 @@ fig = px.choropleth_mapbox(
     featureidkey='id',
     color='vote',
     color_discrete_map={
-        'Yes': 'green',
-        'No': 'red',
+        'Yes': '#009E73',
+        'No': '#E69F00',
         'No Vote': 'gray',
     },
     mapbox_style='carto-positron',  # Using a light-themed base map
@@ -128,7 +128,7 @@ fig.update_layout(
     title_text=(
         f"California State Senators Vote on <a href='{subtitle_url}' target='_blank'>{subtitle_link_text}</a></span>"
         "<br><span style='font-size: 0.8em;'>"
-        f"Make sure to <a href='https://www.senate.ca.gov/senators' target='_blank'>thank (or complain)</a> to your state senator</span>"
+        f"Make sure to <a href='https://www.senate.ca.gov/senators' target='_blank'>thank (or complain to)</a> your state senator</span>"
     ),
     title_x=0.5,
     title_y=0.95,
